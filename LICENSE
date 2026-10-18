@@ -1,24 +1,76 @@
-This is free and unencumbered software released into the public domain.
+Trinity Source-Available License (TSAL)
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Version 1.0 — Draft
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+Copyright (c) 2026 Armanuly Dzhakhangir
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+1. Overview
 
-For more information, please refer to <https://unlicense.org>
+The Trinity Source-Available License (TSAL) is a source-available license designed to make source code publicly accessible for inspection, study, and private modification while restricting the publication and distribution of modified versions.
+
+TSAL is intended for projects that value source code transparency without permitting unrestricted redistribution of derivative versions.
+
+2. Permissions
+
+Subject to the terms of this license, recipients are permitted to:
+
+- View and read the source code.
+- Study and analyze the source code.
+- Run the original, unmodified software.
+- Modify the source code for personal, private, and non-distributed use.
+- Report bugs and suggest improvements to the original author.
+
+3. Restrictions
+
+Without prior written permission from the copyright holder, recipients may not:
+
+- Publish or distribute modified versions of the software.
+- Distribute modified source code or modified binaries.
+- Present modified versions as official releases.
+- Remove or alter copyright notices or this license text.
+
+4. Unmodified Redistribution
+
+Redistribution of the original, unmodified source code is permitted only if:
+
+- This license text is included.
+- Existing copyright notices are preserved.
+- The source code is not misrepresented as a modified version.
+
+Redistribution of unmodified binaries is permitted under the same conditions, provided the license and copyright notices accompany the distribution where reasonably possible.
+
+5. Contributions
+
+Submitting a patch, bug report, or other contribution does not automatically transfer copyright ownership.
+
+The terms under which contributions may be incorporated into the official project are determined by the project maintainer.
+
+Contributors must have the right to submit the material they provide.
+
+6. No Warranty
+
+The software is provided "AS IS", without warranties of any kind, express or implied, including warranties of merchantability, fitness for a particular purpose, and non-infringement, to the extent permitted by applicable law.
+
+The copyright holder shall not be liable for claims or damages arising from the use of the software, to the extent permitted by applicable law.
+
+7. Copyright
+
+All rights not expressly granted by this license are reserved by the copyright holder.
+
+This license does not transfer ownership of the software or its copyright.
+
+8. License Changes
+
+The copyright holder may publish future versions of this license.
+
+Unless explicitly stated otherwise, a version of the software distributed under a particular version of TSAL remains subject to that version's terms.
+
+9. Contact
+
+For permissions beyond those granted by this license, contact:
+
+[CONTACT INFORMATION]
+
+---
+
+Note: TSAL is a source-available license, not an Open Source Initiative (OSI)-approved open-source license. It restricts the distribution of modified versions.
