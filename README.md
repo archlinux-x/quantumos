@@ -31,6 +31,7 @@ quantumos/
         ├── pic.h / pic.c      # 8259 PIC interrupt controller remapping
         ├── shell.h / shell.c  # Interactive command-line shell (help, clear, echo, reboot, halt)
         └── kernel.c           # Main kernel entry point (kernel_main)
+```
 🚀 Building and Running
 
 Run all commands from the root directory of the project (/mnt/c/Users/neko/Documents/quantumos):
@@ -48,18 +49,23 @@ This produces:
 2. Run in QEMU (using ISO)
 Bash
 
+```text
+
 make run
 
+```
 Or run directly via QEMU:
 Bash
-
+```
 qemu-system-i386 -cdrom quantumos.iso
 
+```
 3. Quick boot without ISO (Direct Kernel Boot)
 Bash
-
+```
 make run-kernel
 
+```
 4. Clean build artifacts
 Bash
 
@@ -68,17 +74,10 @@ make clean
 💻 Built-in Shell Commands
 
 Once booted, an interactive command-line terminal is available:
-
     help — Show list of available commands
-
     about — Display system and architecture information
-
     clear — Clear the VGA screen
-
     echo <text> — Output text to the screen
-
     color <0-15> — Change console font color
-
     reboot — Reboot the virtual machine
-
     halt — Halt the processor (cli; hlt)
